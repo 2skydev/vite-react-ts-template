@@ -1,5 +1,5 @@
 import { Fragment } from 'react';
-import { useRoutes, RouteObject } from 'react-router-dom';
+import { RouteObject, useRoutes } from 'react-router-dom';
 
 type Element = () => JSX.Element;
 
