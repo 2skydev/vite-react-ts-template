@@ -11,7 +11,6 @@ A template for using react quickly.
 - CSS: [`styled-components`](https://styled-components.com/)
 - State management library: [`recoil`](https://recoiljs.org/)
 - Date: [`dayjs`](https://day.js.org/)
-- Form value handle: [`formik`](https://formik.org/)
 
 ## Getting Started
 
